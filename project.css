@@ -24,13 +24,13 @@
         display: flex;
         align-items: center;
     }
-    
-    body {
+
+    .body {
         background-color: rgb(215, 121, 20);
     }
 
     .header {
-    background-color: #fff;
+    background-color: #000000;
     display: flex;
     align-items: center;
     justify-content: space-between;
