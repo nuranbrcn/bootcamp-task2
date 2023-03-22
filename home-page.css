@@ -27,9 +27,9 @@
         font-family: Arial, Helvetica, sans-serif;
     }
 
-    .card-price {
-        color: rgb(0, 0, 0);
-        font-size: 20px;
+    .price {
+        color: rgb(9, 82, 44);
+        font-size: 35px;
     }
 
     .card-button: {
