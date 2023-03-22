@@ -27,6 +27,11 @@
         font-family: Arial;
     }
 
+    .img{
+        max-width: 100%;
+        height: auto;
+    }
+
     .card-price {
         color: grey;
         font-size: 20px;
@@ -49,7 +54,7 @@
     }
  
     .background {
-        background: rgb(234, 94, 7);
+        background: rgb(148, 141, 137);
         background-blend-mode: darken;
         background-size: cover;
     }
@@ -108,7 +113,7 @@
     }
  
     .text-big {
-        font-family: 'Piazzolla', serif;
+        font-family: Arial, Helvetica, sans-serif;
         font-weight: bold;
         font-size: 35px;
     }
@@ -167,14 +172,14 @@
     .text-footer {
         text-align: center;
         padding: 30px 0;
-        font-family: 'Ubuntu', sans-serif;
+        font-family: Arial, Helvetica, sans-serif;
         display: flex;
         justify-content: center;
-        color: rgb(226, 118, 17);
+        color: rgb(0, 0, 0);
     }
 
     .header {
-    background-color: #000000;
+    background-color: #050608;
     display: flex;
     align-items: center;
     justify-content: space-between;
