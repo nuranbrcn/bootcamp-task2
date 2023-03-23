@@ -57,9 +57,11 @@
         height: auto;
     }
 
-    p.a {
-        font-family: "Times New Roman", Times, serif;
+    .about{
+        font-family: 'Times New Roman', Times, serif;
         text-align: center;
+        color: black;
+
     }
 
     h1{
