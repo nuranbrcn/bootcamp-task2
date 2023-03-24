@@ -29,8 +29,8 @@
     }
 
     .price {
-        color: rgb(9, 82, 44);
-        font-size: 35px;
+        color: rgb(0, 0, 0);
+        font-size: 25px;
     }
 
     .card-button: {
@@ -58,7 +58,6 @@
         font-family: 'Times New Roman', Times, serif;
         text-align: center;
         color: black;
-
     }
 
     .img-container {
@@ -107,7 +106,7 @@
     }
  
     .nav-list {
-        width: 70%;
+        width: 68%;
         display: flex;
         align-items: center;
     }
@@ -147,16 +146,6 @@
         font-size: 17px;
         border: 2px solid grey;
         border-radius: 9px;
-    }
-
-    .box-main {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        color: black;
-        max-width: 80%;
-        margin: auto;
-        height: 80%;
     }
 
  
@@ -208,4 +197,9 @@
         font-family: 'Times New Roman', Times, serif;
         display: flex;
         color: rgb(0, 0, 0);
+    }
+    .text-about {
+        font-family: 'Times New Roman', Times, serif;
+        font-weight: bold;
+        font-size: 35px;
     }
