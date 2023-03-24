@@ -13,15 +13,6 @@
         background-color: rgb(215, 121, 20);
     }
 
-    .navbar {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        position: sticky;
-        top: 0;
-        cursor: pointer;
-    }
-
     .header {
         color: rgb(0, 0, 0);
         font-family: 'Times New Roman', Times, serif;
@@ -99,6 +90,15 @@
         font-size: 20px;
 
     }
+
+    .navbar {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: sticky;
+        top: 0;
+        cursor: pointer;
+    }
  
     .background {
         background: rgb(148, 141, 137);
@@ -119,8 +119,8 @@
     }
  
     .logo img {
-        width: 250px;
-        border-radius: 0px;
+        width: 180px;
+        border-radius: 50px;
     }
  
     .nav-list li {
